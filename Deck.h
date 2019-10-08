@@ -1,12 +1,12 @@
 //*********************************************
 //This class defines the characteristics of a *
-//Deck. These include generating the deck	  * 
+//Deck. These include generating the deck     * 
 //storing 52 cards, holding cards,  shuffling *
 //the deck, and dealing cards for players.    *
-//Name: Amilcar R Torres Quijano			  *
-//Last Revision: 11/19/2017					  *
-//Class: CECS 2202							  *
-//ID: 113164								  *
+//Name: Amilcar R Torres Quijano	      *
+//Last Revision: 11/19/2017		      *
+//Class: CECS 2202			      *
+//ID: 113164				      *
 //*********************************************
 
 #include <iostream>
