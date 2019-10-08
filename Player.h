@@ -1,11 +1,11 @@
 //*********************************************
 //This class defines the characteristics of a *
 //Player. These include the name and total    *
-//score earned by the player.			      *
-//Name: Amilcar R Torres Quijano			  *
-//Last Revision: 11/19/2017					  *
-//Class: CECS 2202							  *
-//ID: 113164								  *
+//score earned by the player.	              *
+//Name: Amilcar R Torres Quijano	      *
+//Last Revision: 11/19/2017		      *
+//Class: CECS 2202			      *
+//ID: 113164				      *
 //*********************************************
 
 #include <iostream>
