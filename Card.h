@@ -1,11 +1,11 @@
 //*********************************************
 //This class obtains the characteristics that *
 //define a Card. These include suit, letter,  *
-//and particular values.					  *
-//Name: Amilcar R Torres Quijano			  *
-//Last Revision: 11/19/2017					  *
-//Class: CECS 2202							  *
-//ID: 113164								  *
+//and particular values.		      *
+//Name: Amilcar R Torres Quijano	      *
+//Last Revision: 11/19/2017		      *
+//Class: CECS 2202			      *
+//ID: 113164				      *
 //*********************************************
 
 #include <iostream>
@@ -63,7 +63,7 @@ Card::~Card()
 
 //*******************************************
 //Prints Cards for the user as long as the  *
-//card is face up.							*
+//card is face up.			    *
 //*******************************************
 void Card::printCard()
 {
@@ -80,9 +80,9 @@ void Card::printCard()
 		cout << " FD";
 }
 
-//*************************
+//*****************************
 //	Getters and setters.  *
-//*************************
+//*****************************
 
 char Card::getSuit()
 {
